@@ -1,0 +1,7 @@
+# Sales Data Sanitization Pipeline
+# Python package dependencies
+
+pandas>=1.5.0  # Data manipulation and analysis
+
+# Note: Uses only Python standard library otherwise
+# No numpy, matplotlib, etc. required for core functionality
