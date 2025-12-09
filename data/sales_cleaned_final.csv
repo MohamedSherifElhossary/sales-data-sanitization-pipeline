@@ -1,0 +1,51 @@
+ID,Customer_Name,Sale_Date,Amount_$,Product,Notes,Discount_%,Return_Flag,Employee_ID,Customer_Since,Order_Type,Region
+1,"Smith, John",2023-01-15,1000.5,Laptop Pro X1,VIP customer - priority shipping,10.0,N,E101,2020-01-15,Online,New York
+2,"Johnson, Sarah","Jan 20, 2023",2500.0,Phone Max,,15.5,Y,E102,2021-03-10,In-store,California
+3,"Brown, Mike",2023-02-,1750.25,Tablet Air,URGENT - overnight shipping,0.0,N,E103,2022-05-20,Online,Texas
+4,"Wang, Lisa",2023-03-10,500.0,Unknown,Refund processed - defective unit,5.0,Y,E104,2020-11-30,Online,Los Angeles
+5,"Lee, David",,3200.75,Ultra Monitor,Bulk order (5 units) - corporate account,20.0,N,E105,2019-08-15,Corporate,New York
+6,"Garcia, Maria",2023-04-05,800.0,Mechanical Keyboard,Test entry - DO NOT PROCESS,0.0,N,Unknown,2023-01-05,Test,Chicago
+7,"Patel, Raj","March 15, 2023",1200.0,Wireless Mouse,First time buyer - welcome discount,5.0,N,E107,2023-03-15,Online,Florida
+8,"Chen, Wei",2023-05-22,950.5,Laptop Pro X1,Repeat customer,10.0,N,E108,2021-07-22,In-store,New York
+9,"Kim, Min",06/10/2023,1550.0,Phone Max,,12.5,Y,E109,2022-09-10,Online,California
+10,"Davis, Alex",2023-07-,2100.25,Tablet Air,Corporate event order,18.0,N,E110,2020-12-01,Corporate,Texas
+11,"Martinez, Carlos",2023-08-15,725.0,Unknown,Product missing - check inventory,0.0,Y,E111,2023-02-28,Online,Miami
+12,"Wilson, Emily",15-Sep-2023,3800.0,Ultra Monitor,Large corporate order,25.0,N,E112,2018-06-15,Corporate,New York
+13,"Taylor, James",2023-10-,1100.0,Mechanical Keyboard,,10.0,N,E113,2022-11-20,In-store,Illinois
+14,"Anderson, Sarah","Nov 5, 2023",1650.75,Wireless Mouse,Holiday promotion,15.0,Y,E114,2021-04-05,Online,Florida
+15,"Thomas, Robert",2023-12-20,2950.5,Laptop Pro X1,Year-end sale,20.0,N,E115,2019-10-30,Corporate,New York
+16,"Jackson, Lisa",2024-01-,1250.0,Phone Max,New year promotion,12.5,N,E116,2023-06-15,Online,California
+17,"White, Michael",01/25/2024,875.25,Tablet Air,Educational discount,8.0,Y,E117,2022-08-10,Educational,Texas
+18,"Harris, Jennifer",2024-02-,1500.0,Unknown,Product returned - damaged in transit,0.0,Y,E118,2023-09-22,Online,Los Angeles
+19,"Clark, Brian","March 10, 2024",2300.75,Ultra Monitor,,18.0,N,E119,2020-05-18,In-store,New York
+20,"Lewis, Amanda",2024-04-,950.0,Mechanical Keyboard,Small business account,5.0,N,E120,2023-11-05,Corporate,Chicago
+21,"Walker, Kevin",15-May-2024,1800.5,Wireless Mouse,Seasonal purchase,12.0,Y,E121,2022-12-10,Online,Florida
+22,"Hall, Michelle",2024-06-,2650.0,Laptop Pro X1,Summer sale special,22.0,N,E122,2021-09-15,Online,California
+23,"Allen, Daniel",07/20/2024,1125.25,Phone Max,,11.5,N,E123,2023-04-20,In-store,Texas
+24,"Young, Jessica",2024-08-,775.0,Tablet Air,Back to school offer,7.0,Y,E124,2023-07-05,Educational,New York
+25,"King, Andrew","Sep 15, 2024",3100.0,Ultra Monitor,Corporate renewal,24.0,N,E125,2019-03-12,Corporate,Los Angeles
+26,"Scott, Jessica",2023-02-14,850.0,Wireless Mouse,Valentine's Day promo,5.0,N,E126,2022-01-15,Online,Boston
+27,"Green, Mark",03/25/2023,1450.5,Laptop Lite,Student discount,10.0,Y,E127,2023-03-01,Educational,Massachusetts
+28,"Adams, Laura",2023-04-,675.75,Phone Mini,,8.5,N,E128,2021-10-10,Online,Washington
+29,"Baker, Chris","May 10, 2023",2200.0,Tablet Pro,Government contract,15.0,N,E129,2020-07-22,Corporate,Washington DC
+30,"Nelson, Megan",2023-06-18,1125.5,Monitor Basic,,12.0,Y,E130,2022-05-30,In-store,Virginia
+31,"Carter, Paul",07/05/2023,950.0,Keyboard Standard,Independence Day sale,7.0,N,E131,2023-02-14,Online,Maryland
+32,"Mitchell, Anna",2023-08-,1800.25,Mouse Gaming,Gamer special,18.0,N,E132,2021-11-11,Online,Georgia
+33,"Perez, Juan","Sep 20, 2023",3500.0,Laptop Pro X1,Enterprise purchase,25.0,N,E133,2018-09-15,Corporate,Atlanta
+34,"Roberts, Steven",2023-10-15,1100.75,Phone Max,,10.0,Y,E134,2023-01-20,Online,Miami
+35,"Turner, Rachel","Nov 10, 2023",2650.5,Tablet Air,Black Friday early,20.0,N,E135,2022-08-05,Online,Orlando
+36,"Phillips, Jason",2023-12-,875.0,Ultra Monitor,,5.0,N,E136,2023-05-15,In-store,Tampa
+37,"Campbell, Nicole",2024-01-25,1950.25,Keyboard Pro,New year corporate,22.0,N,E137,2020-12-01,Corporate,Jacksonville
+38,"Parker, Eric",02/14/2024,1200.0,Wireless Mouse,Valentine's special,12.0,Y,E138,2023-06-30,Online,Fort Lauderdale
+39,"Evans, Samantha",2024-03-,2800.75,Laptop Lite,Spring sale,18.5,N,E139,2022-03-25,Online,West Palm Beach
+40,"Edwards, Brian","April 5, 2024",1125.5,Phone Mini,,9.0,N,E140,2023-09-10,In-store,Boca Raton
+41,"Collins, Amanda",2024-05-,650.0,Tablet Pro,Beach promotion,4.0,Y,E141,2024-01-15,Online,Destin
+42,"Stewart, Kevin",06/20/2024,3100.25,Monitor Basic,Summer corporate,28.0,N,E142,2019-07-08,Corporate,Panama City
+43,"Sanchez, Maria",2024-07-,1450.0,Keyboard Standard,,11.0,N,E143,2022-10-31,Online,Tallahassee
+44,"Morris, Daniel","Aug 15, 2024",2200.75,Mouse Gaming,Back to school,16.0,Y,E144,2023-04-05,Educational,Gainesville
+45,"Rogers, Jennifer",2024-09-,975.5,Laptop Pro X1,,6.5,N,E145,2024-02-20,Online,Daytona
+46,"Reed, Michael","Oct 10, 2024",1800.0,Phone Max,Fall clearance,14.0,N,E146,2021-05-15,In-store,Pensacola
+47,"Cook, Jessica","Nov 25, 2024",2950.75,Tablet Air,Black Friday,24.0,Y,E147,2020-08-30,Online,Sarasota
+48,"Morgan, David",2024-12-,1125.0,Ultra Monitor,Holiday sale,8.0,N,E148,2023-11-11,Online,Naples
+49,"Bell, Ashley","Jan 15, 2025",3500.5,Keyboard Pro,New year enterprise,30.0,N,E149,2018-04-18,Corporate,Fort Myers
+50,"Murphy, James",02/28/2025,1650.25,Wireless Mouse,,13.5,Y,E150,2022-07-22,Online,Melbourne
