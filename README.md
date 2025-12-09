@@ -1,6 +1,6 @@
 # Sales Data Sanitization Pipeline
 
-A real-world data engineering project that cleans, validates, and analyzes messy sales data.
+A data engineering project that cleans, validates, and analyzes messy sales data.
 
 ## 🎯 Project Overview
 Takes raw sales data with multiple date formats, inconsistent regions, missing values, and currency issues, and transforms it into clean, analysis-ready data.
